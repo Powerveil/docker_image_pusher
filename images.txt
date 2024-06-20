@@ -1,2 +1,1 @@
-elasticsearch:8.13.0
-kibana:8.13.0
+eclipse-temurin:8-jre
