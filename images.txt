@@ -1,1 +1,2 @@
-eclipse-temurin:8-jre
+sonarqube:9.9-community
+postgres:15
