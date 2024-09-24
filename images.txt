@@ -1,2 +1,3 @@
 sonarqube:9.9-community
 postgres:15
+eclipse-temurin:8-jre
