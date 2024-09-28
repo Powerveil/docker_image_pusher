@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+styletang/rocketmq-console-ng:latest
